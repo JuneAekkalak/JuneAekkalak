@@ -1,7 +1,7 @@
 
-<h3>👋 Hi, I’m Aekkalak Junjongkon, Or you can call me June. I'm studying for a bachelor's degree. in software engineering </h3>
-<h3>👀 I am interested in front-end and back-end and would like to develop into a full-stack developer </h3>
-<h3>🌱 I'm currently learning Web development using the Javascript framework, e.g., React , Express</h3>
+👋 Hi, I’m Aekkalak Junjongkon, Or you can call me June. I'm studying for a bachelor's degree. in software engineering 
+👀 I am interested in front-end and back-end and would like to develop into a full-stack developer 
+🌱 I'm currently learning Web development using the Javascript framework, e.g., React , Express
 
 <!---
 - 💞️ I’m looking to collaborate on ...
